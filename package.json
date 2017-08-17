@@ -11,7 +11,7 @@
   ],
   "scripts": {
     "start": "node server",
-    "devstart": "nodemon server"
+    "devstart": "nodemon --inspect server"
   },
   "author": "David Harris",
   "license": "ISC",
